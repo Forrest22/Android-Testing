@@ -17,7 +17,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        count = 0;
+        //count = 0;
         add = (Button) findViewById(R.id.add);
         subtract = (Button) findViewById(R.id.subtract);
         reset = (Button) findViewById(R.id.reset);
